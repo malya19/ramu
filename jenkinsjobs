@@ -1,0 +1,3 @@
+this file is created to reflet a new code chande in the repository, so that jenkins cicd-buildtrigger2 gets executed.
+
+cicd-buildtrigger2 is a jenkins job wich is configured usind (poll scm) buildtrigger.
